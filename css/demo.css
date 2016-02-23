@@ -60,6 +60,13 @@ img.avatar{
 	height:200px;
 }
 
+img.blog{
+	position:relative;
+	top: 100px;
+	width:450px;
+	height:450px;
+}
+
 .layer p {
 	position: relative;
 	top: 15%;
